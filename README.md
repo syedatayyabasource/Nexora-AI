@@ -84,3 +84,5 @@ Contact
 Login
 404 Not Found
 
+## 🌐 Live Demo
+[View Nexora AI Live](https://agent-6a7c1ae7a1b303063a--nexora-ai-web-platform.netlify.app/)
