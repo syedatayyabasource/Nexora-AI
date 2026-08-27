@@ -1,0 +1,2 @@
+import {Link,NavLink} from "react-router-dom";
+export default function Navbar(){return <header className="nav"><Link className="logo" to="/">Nexora<span>AI</span></Link><nav>{[["Features","/features"],["How It Works","/how-it-works"],["Pricing","/pricing"],["About","/about"],["Contact","/contact"]].map(([t,u])=><NavLink key={u} to={u} className={({isActive})=>isActive?"active":""}>{t}</NavLink>)}</nav><div className="actions"><Link to="/login" className="login">Log in</Link><Link to="/pricing" className="btn">Get Started</Link></div></header>}
