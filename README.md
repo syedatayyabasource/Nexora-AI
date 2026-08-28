@@ -86,3 +86,29 @@ Login
 
 ## 🌐 Live Demo
 [View Nexora AI Live](https://agent-6a7c1ae7a1b303063a--nexora-ai-web-platform.netlify.app/)
+
+# Nexora AI
+
+## Live Demo
+
+## Overview
+
+## Features
+
+## Tech Stack
+
+## Architecture
+
+## Environment Variables
+
+## Installation
+
+## Running Locally
+
+## Production Deployment
+
+## Performance Optimization
+
+## SEO & Accessibility
+
+## Responsive Design
